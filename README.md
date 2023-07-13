@@ -4,7 +4,7 @@ Currently supports:
   - Creating and training a feedforward neural network with SGD using the MSE as the loss
 
 Future roadmap:
-  - Add functionality for easily handling and training on data
+  - Add functionality for easily handling and training on data 🔘
   - Add more activation functions
   - Add more loss functions
   - Optimize code, including getting it to work on GPU's
